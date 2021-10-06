@@ -17,3 +17,10 @@ El error se debe a que no puede acceder al puerto.
 - Circuito en paralelo
 
 ![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_123213.jpg)
+
+
+
+- Circuito en serie
+
+
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_124850.jpg)
