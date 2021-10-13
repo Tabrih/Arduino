@@ -88,6 +88,6 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 5V ÷ 1 Ohm = 5 A 
 
-5V ÷ 0 Ohm = ∞ (Cortocircuito)
+5V ÷ 0 Ohm = ∞ A (Cortocircuito) ---> Evitar
 
 
