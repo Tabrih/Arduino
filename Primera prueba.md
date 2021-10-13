@@ -3,6 +3,8 @@
                                                                 
 # Arduino
 
+[Apuntes de electricidad]()
+
 Primer error de Arduino :
 
 avrdude: ser_open(): can't open device "/dev/ttyACM0": Permission denied
@@ -60,8 +62,12 @@ Da igual si una parte se deconecta
 
 Voltaje --> Altura (Diferencia de potencial)
 
-Intesidad o Amperaje --> cantidad de agua o rotuladores
+Intensidad o Amperaje --> cantidad de agua o rotuladores
 
 Resistencia --> Resistencia al paso del agua o rotulador
 
-Intesidad = Voltaje ÷ Resistencia ---> Ley de Ohm
+Intensidad = Voltaje ÷ Resistencia ---> Ley de Ohm
+
+Voltaje = Intesidad x Voltaje 
+
+Resistencia = Voltaje ÷ Intensidad
