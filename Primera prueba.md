@@ -61,3 +61,5 @@ Da igual si una parte de se deconecta
 Voltaje --> Altura (Diferencia de potencial)
 
 Intesidad o Amperaje --> cantidad de agua o rotuladores
+
+Resistencia --> Resistencia al paso del agua o rotulador
