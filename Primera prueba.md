@@ -3,7 +3,7 @@
                                                                 
 # Arduino
 
-[Apuntes de electricidad]()
+[Apuntes de electricidad](#apuntes-sobre-electricidad)
 
 Primer error de Arduino :
 
@@ -71,3 +71,23 @@ Intensidad = Voltaje ÷ Resistencia ---> Ley de Ohm
 Voltaje = Intesidad x Voltaje 
 
 Resistencia = Voltaje ÷ Intensidad
+
+### Por qué necesitamos resistencias con los LEDs?
+
+Tenemos 2 circuitos 
+
+Circuito 1 : 5V,GND 0V
+
+Circuito 2 : 5V, bombilla, GND 0V
+
+El voltaje de los dos circuitos es 5V.
+
+Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
+
+5V ÷ 441 Ohms = 0,01133 A = 11,33 mA
+
+5V ÷ 1 Ohm = 5 A 
+
+5V ÷ 0 Ohm = ∞ (Cortocircuito)
+
+
