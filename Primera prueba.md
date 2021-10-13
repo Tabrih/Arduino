@@ -57,3 +57,7 @@ Si desconectamos una parte no funciona
 Da igual si una parte de se deconecta
 
 ## Apuntes sobre electricidad
+
+Voltaje --> Altura (Diferencia de potencial)
+
+Intesidad o Amperaje --> cantidad de agua o rotuladores
