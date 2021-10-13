@@ -24,3 +24,34 @@ El error se debe a que no puede acceder al puerto.
 
 
 ![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_124850.jpg)
+
+
+
+                                                     13 de Octubre de 2021
+                                                     
+# Circuitos eléctricos
+
+## Error de programación
+
+El programa avrdude lanzó una excepción y detuvo el programa. Esto por un tema de permisos de usuario.
+
+En Linux hay dos tipos de usuario: El usuario y el superusuario.
+
+
+## Primeros circuitos
+
+### Circuito simple
+
+Este pese a funcionar y dar luz genera dos problemas: 
+
+- Se calienta y es incómodo de tocar
+
+- Puede fundir el LED
+
+### Circuito en serie
+
+Si desconectamos una parte no funciona
+
+### Circuito en paralelo
+
+Da igual si una parte de se deconecta
