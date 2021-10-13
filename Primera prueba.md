@@ -101,4 +101,10 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 ## Morse y sus funciones
 
+[Morse 1](https://github.com/Tabrih/Arduino/blob/main/Morse_1.ino)
+
+[Morse 2](https://github.com/Tabrih/Arduino/blob/main/Morse_2.ino)
+
+[Morse 3](https://github.com/Tabrih/Arduino/blob/main/Morse_3.ino)
+
 
