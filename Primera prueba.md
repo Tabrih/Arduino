@@ -63,3 +63,5 @@ Voltaje --> Altura (Diferencia de potencial)
 Intesidad o Amperaje --> cantidad de agua o rotuladores
 
 Resistencia --> Resistencia al paso del agua o rotulador
+
+Intesidad = Voltaje ÷ Resistencia ---> Ley de Ohm
