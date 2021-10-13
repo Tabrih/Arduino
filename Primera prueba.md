@@ -28,6 +28,9 @@ El error se debe a que no puede acceder al puerto.
 ![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_124850.jpg)
 
 
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_133654.jpg)
+
+
 
                                                      13 de Octubre de 2021
                                                      
