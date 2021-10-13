@@ -93,4 +93,12 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 
 5V ÷ 0 Ohm = ∞ A (Cortocircuito) ---> Evitar
 
+## Lenguaje de programación
+
+- Como subir un programa 
+
+- Errores y soluciones
+
+## Morse y sus funciones
+
 
