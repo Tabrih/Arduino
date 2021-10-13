@@ -54,7 +54,7 @@ Si desconectamos una parte no funciona
 
 ### Circuito en paralelo
 
-Da igual si una parte de se deconecta
+Da igual si una parte s deconecta
 
 ## Apuntes sobre electricidad
 
