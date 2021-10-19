@@ -64,6 +64,20 @@ Si desconectamos una parte no funciona
 ### Circuito en paralelo
 
 Da igual si una parte se desconecta
+ 
+### Botones en serie 
+
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135736.jpg)
+
+
+
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135739.jpg)
+
+
+
+![](https://github.com/Tabrih/Arduino/blob/main/IMG_20211006_135745.jpg)
+
+Fotos de [Miguel Ángel](https://github.com/miguelamgel1107)
 
 ## Apuntes sobre electricidad
 
