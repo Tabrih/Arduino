@@ -155,7 +155,8 @@ Excepción: Ejemplos Java, Python, Ada.
  
  Error --> Port busy --> Esperar 1 min aprox sin desenchufar el Arduino
  
- * Conseguimos programar el Blink.ino *
+ * Conseguimos programar el Blink.ino*
+ 
  1. Buscarlo en Internet
  
  2. Subirlo Nosotros
