@@ -141,7 +141,7 @@ Excepción: Ejemplos Java, Python, Ada.
 
 ## Como programar
 
-- Primero tenemos el Arduino IDE instalad.
+- Primero tenemos el Arduino IDE instalado.
 
 - Tenemos un usuario con permisos.
 
@@ -151,7 +151,7 @@ Excepción: Ejemplos Java, Python, Ada.
 
 - Pulsamos el botón subir (->) 
  
- Errores posibles --> SI no hay puerto --> Herramientas --> Puerto
+ Errores posibles --> Si no hay puerto --> Herramientas --> Puerto
  
  Error --> Port busy --> Esperar 1 min aprox sin desenchufar el Arduino
  
