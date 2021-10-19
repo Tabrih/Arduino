@@ -162,3 +162,15 @@ Excepción: Ejemplos Java, Python, Ada.
  2. Subirlo Nosotros
 
  3. Enlazar en primeras pruebas.md
+
+Después de blink.ino iniciamos pruebas en código morse
+
+Morse 1 --> Hicimos modificaciones en el código para cambiar el tiempo de brillo. Para eso hicimos cambios en de lineas de delay (_);
+
+# Que hace Blink.ino
+
+void loop () {
+
+Cuatro sentencias ( o líneas)
+
+}
