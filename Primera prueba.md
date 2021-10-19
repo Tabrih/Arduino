@@ -194,3 +194,5 @@ delay (_) --> nos pide un número, ese número será los milisegundos de espera
 50 = 0,05 s --> el ojo humano no lo ve
 
 - Hicimos un pulso largo y un pulso corto
+
+Pulso largo de 200 500 y pulso corto de 100 300
