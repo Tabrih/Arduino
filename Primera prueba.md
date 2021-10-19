@@ -122,3 +122,5 @@ El bug es un problema en un programa de un ordenador o software que desencadena 
 Un glitch es un tipo de bug pero gráfico.
 
 Errores : Está en Runtime Error, Compiling Error
+
+Excepción: Ejemplos Java, Python, Ada.
