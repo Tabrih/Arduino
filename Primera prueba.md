@@ -138,3 +138,13 @@ Un glitch es un tipo de bug pero gráfico.
 Errores : Está en Runtime Error, Compiling Error
 
 Excepción: Ejemplos Java, Python, Ada.
+
+## Como programar
+
+- Primero tenemos el Arduino IDE instalad.
+
+- Tenemos un usuario con permisos.
+
+- Conectamos el Arduino por USB.
+
+- Cargamos el programa Blink.ino, Archivo --> Ejemplos --> 1. Basics --> Blink
