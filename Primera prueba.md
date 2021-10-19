@@ -148,3 +148,9 @@ Excepción: Ejemplos Java, Python, Ada.
 - Conectamos el Arduino por USB.
 
 - Cargamos el programa Blink.ino, Archivo --> Ejemplos --> 1. Basics --> Blink
+
+- Pulsamos el botón subir (->) 
+ 
+ Errores posibles --> SI no hay puerto --> Herramientas --> Puerto
+ 
+ Error --> Port busy --> Esperar 1 min aprox sin desenchufar el Arduino
