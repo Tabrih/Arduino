@@ -182,3 +182,15 @@ Cuatro sentencias ( o líneas)
 - digitalWrite(LED_BUILTIN, LOW);
 
 - delay (1000)
+
+delay (_) --> nos pide un número, ese número será los milisegundos de espera
+
+1000 --> 1 segundo
+
+60000 --> 1 minuto
+
+500 --> medio segundo
+
+50 = 0,05 s --> el ojo humano no lo ve
+
+- Hicimos un pulso largo y un pulso corto
