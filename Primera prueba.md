@@ -38,7 +38,7 @@ El error se debe a que no puede acceder al puerto.
 
 ## Error de programación
 
-El programa avrdude lanzó una excepción y detuvo el programa. Esto por un tema de permisos de usuario.
+Intentamos programarl programa de ejemplo blink.ino pero el programa avrdude lanzó una excepción y detuvo el programa. Esto por un tema de permisos de usuario.
 
 ![](https://github.com/Tabrih/Arduino/blob/main/Error%20arduino%201.png)
 
