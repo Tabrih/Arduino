@@ -112,6 +112,9 @@ Y la resistencia? Circuito 1, 1 Ohm Circuito 2 440 Ohms
 [Morse 3](https://github.com/Tabrih/Arduino/blob/main/Morse_3.ino)
 
 
+                                                              19 de Octubre de 2021
+
+
 ## Errores
 
 El bug es un problema en un programa de un ordenador o software que desencadena un resultado no esperado.
