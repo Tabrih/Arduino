@@ -174,3 +174,7 @@ void loop () {
 Cuatro sentencias ( o líneas)
 
 }
+
+- digitalWrite(LED_BUILTIN, HIGH);
+
+- delay (1000)
