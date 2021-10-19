@@ -40,6 +40,10 @@ El error se debe a que no puede acceder al puerto.
 
 El programa avrdude lanzó una excepción y detuvo el programa. Esto por un tema de permisos de usuario.
 
+![](https://github.com/Tabrih/Arduino/blob/main/Error%20arduino%201.png)
+
+
+
 En Linux hay dos tipos de usuario: El usuario y el superusuario.
 
 
