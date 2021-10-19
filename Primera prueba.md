@@ -154,3 +154,11 @@ Excepción: Ejemplos Java, Python, Ada.
  Errores posibles --> SI no hay puerto --> Herramientas --> Puerto
  
  Error --> Port busy --> Esperar 1 min aprox sin desenchufar el Arduino
+ 
+ _Conseguimos programar el Blink.ino_
+ 
+ 1. Buscarlo en Internet
+ 
+ 2. Subirlo Nosotros
+
+ 3. Enlazar en primeras pruebas.md
