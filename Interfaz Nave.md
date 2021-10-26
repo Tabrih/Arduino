@@ -2,7 +2,28 @@
                                                     19 de Octubre de 2021
 
 
+# Proyecto
+
 En el día de hoy he aprendido, junto a Miguel Ángel y David, a realizar la interfaz de nave espacial.
+
+## Resumen 
+
+## Montaje
+
+## Código
+
+# Variaciones
+ 
+ # Añadir a un botón por hardware
+ 
+ Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el LED 3 se encenderá. El resto del proyecto (hardware y software es el mismo).
+
+
+
+
+
+
+
 
 Ahora os explicaré, tanto por texto como por fotos como aprendimos a hacerlo.
 
