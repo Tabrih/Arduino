@@ -8,14 +8,4 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 
 [Interfaz Nave](https://github.com/Tabrih/Arduino/blob/main/Interfaz%20Nave.md)
 
-Ejemplo Documentar
 
-# Proyecto (título)
-
-## Resumen
-
-## Introducción teórica
-
-## Proceso de montaje
-
-- Materiales necesarios (leds, resistencias, botón)
