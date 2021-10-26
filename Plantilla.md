@@ -30,6 +30,10 @@
 
 ## Resultado 
 
-- Foto  - Video - Funciona o no funciona
+- Foto  
+
+- Video 
+
+- Funciona o no funciona
 
 ## Variaciones
