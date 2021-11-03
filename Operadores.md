@@ -23,3 +23,22 @@ Se puede encadenar infinitas veces
 - Decidir 
 
 Digital Write es una función que nos pide un número de pin y el valor HIGH(1) o LOW(0). Si el valor es HIGH, la placa suministrará 5 Voltios en ese pin. Si el valor es LOW, la placa suministrará 0 voltios en ese pin. Si hay 5 voltios, se activarán los circuitos* Si es 0V no se activarán.
+
+* Depende del hardware y como esté conectado.
+
+} Else if ( temperature >= baselineTemp+2 && temperature < baselineTemp+4){
+
+digitalWrite(2,HIGH),
+
+digitalWrite(3,LOW),
+
+digitalWrite(4,LOW),
+
+
+} Else if ( temperature >= baselineTemp+4 && temperature < baselineTemp+6){
+
+digitalWrite(2,HIGH),
+
+digitalWrite(3,HIGH),
+
+digitalWrite(4,LOW),
