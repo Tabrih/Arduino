@@ -59,8 +59,9 @@ Haremos diferentes programas con diferentes comportamientos
 
 Para poner un botón necesitamos una resistencia de 10000 Ω Ohmnios. Estas son las que tienen cuerpo beige y una línea naranaja.
 
-Pin ___ Pulsador___ GND (Grand)                                                                                                                                          
-        //
+Pin ___ Pulsador___ GND (Grand)                                                                                                                      
+
+       //
 
 5V____ Resistencia 10k Ohmnios
 
