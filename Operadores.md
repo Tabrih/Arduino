@@ -60,7 +60,7 @@ Haremos diferentes programas con diferentes comportamientos
 Para poner un botón necesitamos una resistencia de 10000 Ω Ohmnios. Estas son las que tienen cuerpo beige y una línea naranaja.
 
 Pin ___ Pulsador___ GND (Grand)                                                                                                                                          
-       //
+        //
 
 5V____ Resistencia 10k Ohmnios
 
@@ -68,7 +68,8 @@ Esquema de botón " Por defecto arriba" o "Pulled High"
 
 Conectaremos 2 botones. Uno al pin 2 y otro al pin 3. Para poner un LED necesitamos una resistencia de 220 Ω Ohmnios, las de cuerpo azul. Hay que tener en cuenta la polaridad del led. La pata más corta va a hacia el GND(0V) y la larga hacia el voltaje.
 
-PIN -->---///---GND                                                                                                                                                     
+PIN -->---///---GND                                                                                                                     
+
      LED 220Ω
 
 Da igual si la resistencia va detrás o delante del LED. Conectaremos 2 LEDS, una al pin 4 y otra al pin 5.
