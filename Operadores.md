@@ -26,7 +26,7 @@ Digital Write es una función que nos pide un número de pin y el valor HIGH(1) 
 
 * Depende del hardware y como esté conectado.
 
-} Else if ( temperature >= baselineTemp+2 && temperature < baselineTemp+4){
+} else if ( temperature >= baselineTemp+2 && temperature < baselineTemp+4){
 
 digitalWrite(2,HIGH),
 
@@ -35,7 +35,7 @@ digitalWrite(3,LOW),
 digitalWrite(4,LOW),
 
 
-} Else if ( temperature >= baselineTemp+4 && temperature < baselineTemp+6){
+} else if ( temperature >= baselineTemp+4 && temperature < baselineTemp+6){
 
 digitalWrite(2,HIGH),
 
