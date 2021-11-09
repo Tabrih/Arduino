@@ -72,5 +72,31 @@ En el código, el greenValue probamos a ponerle un valor de 10, así igual en bl
 
 En la protoboard, cambiamos los potenciadores por botones y, al mantenerlos pulsados, los LEDs se iluminan lentamente y al llegar a un punto determinado de brillo se apagan automáticamente.
 
+Este es el código modificado (la parte de tratado de las variables)
+
+```C++
+
+  if (redSensorValue > 600) {
+    redValue += 10;
+  }
+if (greenSensorValue > 600) {
+    greenValue += 10;
+  }
+if (blueSensorValue > 600) {
+    blueValue += 10;
+  }
+  
+if (redValue > 255) {
+    redValue = 0;
+  }
+if (greenValue > 255) {
+    greenValue = 0;
+  }
+if (blueValue > 255) {
+    blueValue = 0;
+  }
+```
+
+
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211109134734.jpg)
 
