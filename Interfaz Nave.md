@@ -2,30 +2,10 @@
                                                     19 de Octubre de 2021
 
 
-# Proyecto
+# Proyecto Interfaz Nave 
+En el día de hoy he aprendido, junto a [Christian](https://github.com/Tabrih) y a [David](https://github.com/DavidMenCam), a realizar la interfaz de nave espacial.
 
-En el día de hoy he aprendido, junto a Miguel Ángel y David, a realizar la interfaz de nave espacial.
-
-## Resumen 
-
-## Montaje
-
-## Código
-
-# Variaciones
- 
- # Añadir a un botón por hardware
- 
- Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el LED 3 se encenderá. El resto del proyecto (hardware y software es el mismo).
-
-
-
-
-
-
-
-
-Ahora os explicaré, tanto por texto como por fotos como aprendimos a hacerlo.
+## Resumen / Montaje 
 
 En nuestro caso, la LED de la izquierda permanecerá encendida  hasta que pulse el botón. Cuando Arduino reciba la señal del botón pulsado, la luz de la izquierda se apaga y se encienden otras dos luces que comienzan a parpadear.
 
@@ -63,4 +43,32 @@ almacenar el valor dentro de la variable switchState.
 Si hay voltaje en el pin 2 cuando digitalRead() es llamada, entonces la 
 variable switchState almacena un valor HIGH (o 1). Si no hay voltaje en el pin 
 2, switchState almacenará el valor LOW (o 0).
+
+## Código 
+
+[Este es el código de el arduino de la interfaz de la nave ](https://github.com/DavidMenCam/Arduino/blob/main/variacion%201/lo_o_ko_k_l.ino)
+
+[Video del interfaz en funcionamiento](https://youtu.be/ey4Wmv3uzh4)
+
+## Variaciones
+
+En esta variación invertimos el funcionamiento del arduino ahora cuando el botón no está pulsado los LEDs parpadean continuamente y cuando se pulsa el botón dejan de parpadear y el primer Led queda encendido.
+
+[Variación 1](https://github.com/DavidMenCam/Arduino/blob/main/variacion%202/low.ino)
+
+Y aquí está el ejemplo en video para que lo podaís ver 
+
+[Variacion 1 video](https://www.youtube.com/watch?v=Sl5UKPwK2mo)
+
+
+En la última añadimos un cuarto LED y repetimos el funcionamiento de la variación 1 , la diferencia es que tenia un LED de más 
+
+[Códido de la última variación]()
+
+[Video de la última variación](https://youtu.be/B4rhuzqbJ8I)
+ 
+ # Añadir a un botón por hardware
+ 
+ Vamos a añadir un botón al pin 3 de tal forma que solo cuando se pulse el LED 3 se encenderá. El resto del proyecto (hardware y software es el mismo).
+
 
