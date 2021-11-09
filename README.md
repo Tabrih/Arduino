@@ -8,4 +8,6 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 
 [Interfaz Nave](https://github.com/Tabrih/Arduino/blob/main/Interfaz%20Nave.md)
 
+[Medidor de amor](https://github.com/Tabrih/Arduino/blob/main/Medidor%20de%20amor.md)
 
+[Lámpara de varios colores](https://github.com/Tabrih/Arduino/blob/main/L%C3%A1mpara%20de%20varios%20colores.md)
