@@ -49,4 +49,3 @@ Otros tipos :
 
 # Lámpara de varios colores
 
-Zhongli > Xiao
