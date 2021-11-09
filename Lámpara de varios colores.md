@@ -33,3 +33,17 @@ La función nos pide dos cosas :
 - Por un lado ( y lo primero), el número de pin
 
 - Por otro lado , un número entre 0 y 255
+
+O significa 0% de voltaje, 255 significa 100% de voltaje (5V)
+
+int = integer o número entero  
+
+int significa que muestra variables en un tipos de dato númerico no decimal. Le asigna un espacio en memoria 
+
+Otros tipos : 
+
+- string -> Cadena de caracteres
+- bool -> boleano y es verdadero (true) o falso (false)
+- char -> un único caracter
+- float -> números decimales
+
