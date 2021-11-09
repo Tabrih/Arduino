@@ -68,6 +68,8 @@ En esta ocasión realizamos una sola variable, la cual consistía en dos grandes
 
 En el código, el greenValue probamos a ponerle un valor de 10, así igual en blue y redValue.
 
+[Código](https://github.com/DavidMenCam/Arduino/blob/main/arduino_ver_7.ino)
+
 En la protoboard, cambiamos los potenciadores por botones y, al mantenerlos pulsados, los LEDs se iluminan lentamente y al llegar a un punto determinado de brillo se apagan automáticamente.
 
 ![](https://github.com/miguelamgel1107/Arduino/blob/main/IMG20211109134734.jpg)
