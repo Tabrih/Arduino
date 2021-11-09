@@ -3,7 +3,7 @@
 
 
 # Proyecto Interfaz Nave 
-En el día de hoy he aprendido, junto a [Christian](https://github.com/Tabrih) y a [David](https://github.com/DavidMenCam), a realizar la interfaz de nave espacial.
+En el día de hoy he aprendido, junto a [Miguel Ángel](https://github.com/miguelamgel1107) y a [David](https://github.com/DavidMenCam), a realizar la interfaz de nave espacial.
 
 ## Resumen / Montaje 
 
@@ -56,14 +56,12 @@ En esta variación invertimos el funcionamiento del arduino ahora cuando el bot�
 
 [Variación 1](https://github.com/DavidMenCam/Arduino/blob/main/variacion%202/low.ino)
 
-Y aquí está el ejemplo en video para que lo podaís ver 
+Y aquí está el ejemplo en video para que lo podaís ver: 
 
 [Variacion 1 video](https://www.youtube.com/watch?v=Sl5UKPwK2mo)
 
 
 En la última añadimos un cuarto LED y repetimos el funcionamiento de la variación 1 , la diferencia es que tenia un LED de más 
-
-[Códido de la última variación]()
 
 [Video de la última variación](https://youtu.be/B4rhuzqbJ8I)
  
