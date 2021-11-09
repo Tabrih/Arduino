@@ -3,7 +3,7 @@
 
 
 # Proyecto Interfaz Nave 
-En el día de hoy he aprendido, junto a [Miguel Ángel](https://github.com/miguelamgel1107) y a [David](https://github.com/DavidMenCam), a realizar la interfaz de nave espacial.
+En el día de hoy he aprendido, junto a [Miguel Ángel](https://github.com/miguelamgel1107) y [David](https://github.com/DavidMenCam) a realizar la interfaz de nave espacial.
 
 ## Resumen / Montaje 
 
