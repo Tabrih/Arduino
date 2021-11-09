@@ -47,3 +47,6 @@ Otros tipos :
 - char -> un único caracter
 - float -> números decimales
 
+# Lámpara de varios colores
+
+
