@@ -7,30 +7,38 @@
  punto();
  raya();
  punto();
- //H
+
+//H
  punto();
  punto();
  punto();
  punto();
- //R
+
+//R
  punto();
  raya();
  punto();
- //I
+
+//I
  punto();
  punto();
- //S
+
+//S
  punto();
  punto();
  punto();
+ 
  //T
  raya();
- //I
+
+//I
  punto();
  punto();
- //A
+
+//A
  punto();
  raya();
+ 
  //N
  raya();
  punto();
