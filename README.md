@@ -11,3 +11,5 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 [Medidor de amor](https://github.com/Tabrih/Arduino/blob/main/Medidor%20de%20amor.md)
 
 [Lámpara de varios colores](https://github.com/Tabrih/Arduino/blob/main/L%C3%A1mpara%20de%20varios%20colores.md)
+
+[Theremin Óptico](https://github.com/Tabrih/Arduino/blob/main/Theremin%20%C3%93ptico.md)
