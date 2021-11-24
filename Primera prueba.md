@@ -196,3 +196,9 @@ delay (_) --> nos pide un número, ese número será los milisegundos de espera
 - Hicimos un pulso largo y un pulso corto
 
 Pulso largo de 200 500 y pulso corto de 100 300
+
+#### Snippet
+
+Un Snippet fragmento de código que no funciona por sí mismo que sirve para una función concreta.
+
+Los snippets se copian, se pegan y, normalmente, se adaptan al código a mano por le programadore.
