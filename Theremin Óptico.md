@@ -4,6 +4,11 @@
 Hoy junto a [David](https://github.com/DavidMenCam) y [Miguel Ángel](https://github.com/miguelamgel1107) he realizado el proyecto Theremin Óptico                                              
 # Resumen
 
+- En tu protoboard, conecta las líneas de bus exteriores a la corriente y a la toma de tierra.
+- Toma el piezo, y conecta a un lado a la toma de tierra, y el otro a la clavija digital 8 en el Arduino.
+- Coloca un fototransistor en la placa de prototipado, conectado el terminal ms largo a 5V. Conecta el otro terminal al pin analógico de Arduino, y a tierra a través de una resistencia de 10 kilo Ohmios.
+
+
 
 
 ## Introducción teórica
