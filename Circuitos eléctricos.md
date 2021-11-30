@@ -7,13 +7,13 @@ Los circuitos eléctricos se representan mediantes esquemas que permiten entende
 - Qué habéis dibujado
 - Qué es un condensador
 
-# include < servo.h
+# Include < servo.h
 
 Los include son otros trozos de código 
 
 También conocidos como bibliotecas o librerías (library)
 
-Se introducen al principio del código con la fórmula #include < nombre.h>
+Se introducen al principio del código con la fórmula #include <nombre.h>
 
 Otros lenguajes usan la palabra import
 
@@ -27,13 +27,13 @@ Las propiedades son variables ( u objetos) que son sus atributos
 
 Los objetos son funciones que pueden realizar
 
-my Servo attach→ método (9→ argumento)
+my Servo attach → método (9→ argumento)
 
 Programa 
 
 Leer inputs → Procesar inputs → Sacar output
 
-analogRead 0-1023  0 = 0V  1023 = 5V
+analogRead 0 - 1023  0 = 0V  1023 = 5V
 
 angle = map (potVal, 0, 1023, 0, 179)
 
@@ -43,7 +43,7 @@ angle = map (potVal, 0, 1023, 0, 179)
 
 4to y 5to valor → intervalo (mínimo y máximo) de salida 
 
-potVAL→ angle                                   myServo.write(angle); (método)
+potVAL → angle                                   myServo.write(angle); (método)
 
 0   →  0                                        
 
