@@ -12,4 +12,6 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 
 [Lámpara de varios colores](https://github.com/Tabrih/Arduino/blob/main/L%C3%A1mpara%20de%20varios%20colores.md)
 
+[Medidor de estado de ánimo](https://github.com/Tabrih/Arduino/blob/main/Medidor%20de%20estado%20de%20%C3%A1nimo.md)
+
 [Theremin Óptico](https://github.com/Tabrih/Arduino/blob/main/Theremin%20%C3%93ptico.md)
