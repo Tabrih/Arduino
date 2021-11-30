@@ -16,6 +16,6 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 
 [Theremin Óptico](https://github.com/Tabrih/Arduino/blob/main/Theremin%20%C3%93ptico.md)
 
-[Código Morse]()
+[Código Morse](https://github.com/Tabrih/Arduino/blob/main/C%C3%B3digo%20Morse.md)
 
 [Circuitos eléctricos](https://github.com/Tabrih/Arduino/blob/main/Circuitos%20el%C3%A9ctricos.md)
