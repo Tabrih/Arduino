@@ -27,9 +27,9 @@ Las propiedades son variables ( u objetos) que son sus atributos
 
 Los objetos son funciones que pueden realizar
 
-my Servo attach → método (9→ argumento)
+my Servo attach → método (9 → argumento)
 
-Programa 
+PROGRAMA
 
 Leer inputs → Procesar inputs → Sacar output
 
