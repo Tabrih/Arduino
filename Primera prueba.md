@@ -3,27 +3,27 @@
 
 # Índice
 
-[Arduino]()
+[Arduino](#arduino)
 
-[Protoboard]()
+[Protoboard](#protoboard)
 
-[Circuitos Eléctricos]()
+[Circuitos Eléctricos](#circuitos-eléctricos)
 
-[Primeros Circuitos]()
+[Primeros Circuitos](#primeros-circuitos)
 
-[Apuntes sobre electricidad]()
+[Apuntes sobre electricidad](#apuntes-sobre-electricidad)
 
-[Lenguaje de programación]()
+[Lenguaje de programación](#lenguaje-de-programación)
 
-[Morse y sus funciones]()
+[Morse y sus funciones](#morse-y-sus-funciones)
 
-[Errores]()
+[Errores](#errores)
 
-[Como programar]()
+[Como programar](#como-programar)
 
-[Que hace Blink.ino]()
+[Que hace Blink.ino](#que-hace-blink.ino)
 
-[Snippet]()
+[Snippet](#snippet)
 
 
 
