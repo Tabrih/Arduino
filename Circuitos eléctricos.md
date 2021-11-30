@@ -43,9 +43,9 @@ angle = map (potVal, 0, 1023, 0, 179)
 
 4to y 5to valor → intervalo (mínimo y máximo) de salida 
 
-potVAL→ angle                                   myServo.write(angle);
+potVAL→ angle                                   myServo.write(angle); (método)
 
-0   →  0                                        método
+0   →  0                                        
 
 1023  → 179
 
