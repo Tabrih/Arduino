@@ -1,5 +1,5 @@
 
-                                   30 de Noviembre de 2021
+                                                  30 de Noviembre de 2021
 
 
 En el día de hoy vamos a abrir una funcionalidad a un proyecto anterior. En el grupo estoy con [Stiven](https://github.com/St1v3n3223) y vamos a hacer el proyecto Medidor de amor.
