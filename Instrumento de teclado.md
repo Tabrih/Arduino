@@ -7,4 +7,4 @@ Hoy, junto a [Miguel Ángel], he realizado el proyecto Arduino Instrumento de Te
 
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20211214_105502.jpg)
 
-![](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20211214_105519.mp4)
+![](https://youtu.be/lN6Q6oZCZuc)
