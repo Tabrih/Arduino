@@ -3,7 +3,7 @@
                                                  
 # Proyecto
 
-Hoy, junto a [Christian](https://github.com/Tabrih), he realizado el proyecto Arduino Instrumento de Teclado.
+Hoy, junto a [Miguel Ángel](https://github.com/miguelamgel1107), he realizado el proyecto Arduino Instrumento de Teclado.
 
 ## Resumen
 
