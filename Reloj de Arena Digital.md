@@ -30,5 +30,12 @@ Tilt sensor o mejor llamado interruptor de inclinación en un sensor de encendid
 
 
 ## Montaje
-- Foto
+
+- Foto del Montaje
+
+![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220112_095505.jpg)
+
+[Vídeo de Como Funciona](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220112_095543.mp4)
+
 - Código (Enlace Código)
+
