@@ -21,3 +21,5 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 [Circuitos eléctricos](https://github.com/Tabrih/Arduino/blob/main/Circuitos%20el%C3%A9ctricos.md)
 
 [Kill Switch y Snippets](https://github.com/Tabrih/Arduino/blob/main/Kill%20Switch%20y%20Snippets.md)
+
+[Instrumento de Teclado](https://github.com/Tabrih/Arduino/blob/main/Instrumento%20de%20teclado.md)
