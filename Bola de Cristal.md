@@ -13,9 +13,11 @@ Por último hemos probado de utilizarla con un botón en vez de con un tilt sens
 # Fotos o Vídeos
 
 - Montaje
+
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220112_125450.jpg)
 
 - Encendido
+
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220112_125700.jpg)
 
 - [Vídeo de como funciona](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220112_125524.mp4)
@@ -23,6 +25,7 @@ Por último hemos probado de utilizarla con un botón en vez de con un tilt sens
 ## Variación con Botón
 
 - Montaje
+
 ![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220112_125734.jpg)
 
 - [Vídeo de como funciona](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220112_125753.mp4)
