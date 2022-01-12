@@ -2,7 +2,7 @@
                                                           
 # Proyecto 
 
-Hoy junto a [Miguel Ángel]() he realizado el proyecto de Arduino llamado Reloj de Arena Digital.
+Hoy junto a [Miguel Ángel](https://github.com/miguelamgel1107) he realizado el proyecto de Arduino llamado Reloj de Arena Digital.
 
 ## Introducción teórica
 
