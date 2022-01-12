@@ -77,3 +77,8 @@ prevSwitchState = switchState;
 
 ```
 
+RE blanca , RE negra con . , DO corchera, RE corchera, Mi negra con . , La negra, DO negra, RE blanca , RE negra con . , DO corchera
+
+SOL alto, MI negra con . , RE negra, DO negra, SOL alto, MI negra con . , RE negra, DO negra,
+
+RE 6 tiempos LA corchera SOL bajo LA corchera Sol Bajo 4 tiempo de SOL y Silencio 
