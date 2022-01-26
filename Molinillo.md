@@ -37,4 +37,10 @@ void loop(){
   }
 }
 ```
+## Imágenes o Vídeos
 
+Aquí tenéis una imagen del proyecto:
+
+![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220119_101936.jpg)
+
+[Y aquí tenéis el vídeo del mismo](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220119_102053.mp4)
