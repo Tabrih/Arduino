@@ -27,3 +27,11 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 [Reloj de Arena Digital](https://github.com/Tabrih/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md)
 
 [Bola de Cristal](https://github.com/Tabrih/Arduino/blob/main/Bola%20de%20Cristal.md)
+
+[Molinillo Motorizado](https://github.com/Tabrih/Arduino/blob/main/Molinillo.md)
+
+[Zoótropo](https://github.com/Tabrih/Arduino/blob/main/Zo%C3%B3tropo.md)
+
+[Cerrojo de Puerta](https://github.com/Tabrih/Arduino/blob/main/Cerrojo%20de%20Puerta.md)
+
+[Lámpara táctil](https://github.com/Tabrih/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md)
