@@ -2,7 +2,7 @@
 
 # Proyecto
 
-En el día de hoy, junto a [Christian] y [Miguel Ángel], hemos trabajado en el proyecto de Arduino llama Zoótropo.
+En el día de hoy, junto a [David](https://github.com/DavidMenCam) y [Miguel Ángel](https://github.com/miguelamgel1107), hemos trabajado en el proyecto de Arduino llama Zoótropo.
 
 ## Resumen 
 
