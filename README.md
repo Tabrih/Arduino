@@ -38,4 +38,6 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 
 [Lámpara táctil](https://github.com/Tabrih/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md)
 
+[Joystick](https://github.com/Tabrih/Arduino/blob/main/Joystick.md)
+
 [Sensor KY-015](https://github.com/Tabrih/Arduino/blob/main/KY-015%20sensor.md)
