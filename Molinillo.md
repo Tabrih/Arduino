@@ -19,7 +19,7 @@ El motor conduce la energía al molinillo, el cual gracias a la energia que le p
 Aqui está el código del proyecto: 
 
 
-```
+```C++
 const int switchPin = 2;
 const int motorPin = 9;
 int switchState = 0;
