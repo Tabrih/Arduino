@@ -14,7 +14,7 @@ Cabe destacar un dato curioso. El Joystick está formado por dos potenciómetros
 
 ### Código Joystick
 
-```
+```C++
 const int pinBoton = 3; 
 const int pinEjeY = A1; 
 const int pinEjeX = A0; 
@@ -43,7 +43,7 @@ void loop() {
 
 ### Código Joystick con LEDs
 
-```
+```C++
 const int pinBoton = 3; 
 const int pinEjeY = A1; 
 const int pinEjeX = A0; 
