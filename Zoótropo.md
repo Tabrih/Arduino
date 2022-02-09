@@ -14,7 +14,7 @@ Los puentes H son un tipo de componente comúnmente llamado Circuito integrado. 
 
 Aquí tenéis el código del proyecto:
 
-```
+```C++
 const int controlPin1 = 2;
 const int controlPin2 = 3;
 const int enablePin = 9;
