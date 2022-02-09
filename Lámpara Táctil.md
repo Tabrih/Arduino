@@ -23,7 +23,7 @@ La librería CapacitiveSensor comprueba dos clavijas en nuestra protoboard (una 
 
 Aquí está el código de este proyecto:
 
-```
+```C++
 #include <CapacitiveSensor.h>
 CapacitiveSensor capSensor = CapacitiveSensor(4,2);
 int threshold = 1000;
