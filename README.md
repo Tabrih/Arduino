@@ -26,7 +26,7 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 
 # 2do Trimestre
 
-Reloj de Arena Digital](https://github.com/Tabrih/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md)
+[Reloj de Arena Digital](https://github.com/Tabrih/Arduino/blob/main/Reloj%20de%20Arena%20Digital.md)
 
 [Bola de Cristal](https://github.com/Tabrih/Arduino/blob/main/Bola%20de%20Cristal.md)
 
