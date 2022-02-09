@@ -1,4 +1,4 @@
-                                                          19 de Enero de 2022
+                                                        19 de Enero de 2022
 
 # Proyecto
 
