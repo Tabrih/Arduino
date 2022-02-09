@@ -163,3 +163,6 @@ void tocarNota(int numeroNota, float duracionNota){
 
 ```
 
+![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220209_125615.jpg)
+
+[Vídeo](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220209_125605.mp4)
