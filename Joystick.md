@@ -2,7 +2,7 @@
 
 # Proyecto
 
-En día de hoy he probado el funcionamiento de un Joystick.
+En el día de hoy he probado el funcionamiento de un Joystick.
 
 ## Resumen
 
