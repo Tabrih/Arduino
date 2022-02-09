@@ -129,3 +129,14 @@ else {
 ## Imágenes y Vídeos
 
 Y aquí un par de imágenes y un vídeo sobre el Joystick.
+
+
+### Imagen del Joystick:
+
+![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220209_104626.jpg)
+
+### Imagen y vídeo del Joystick con variación de LEDs
+
+![](https://github.com/Tabrih/Arduino/blob/main/Archivos/IMG_20220209_115133.jpg)
+
+[Vídeo](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220209_115224.mp4)
