@@ -4,7 +4,9 @@
 
 Hoy junto a [Miguel Ángel](https://github.com/miguelamgel1107) he realizado el proyecto de Arduino llamado Reloj de Arena Digital.
 
-## Introducción teórica
+## Resumen
+
+Este proyecto consiste en crear un reloj de arena digital con LEDs, así puedes saber el tiempo que le dedicas a x cosas.
 
 ### Delay y sus problemas
 
@@ -37,7 +39,7 @@ Tilt sensor o mejor llamado interruptor de inclinación en un sensor de encendid
 
 [Vídeo de Como Funciona](https://raw.githubusercontent.com/Tabrih/Arduino/main/Archivos/VID_20220112_095543.mp4)
 
-- Código
+## Código
 
 ```
 const int switchPin = 8;
@@ -77,8 +79,86 @@ prevSwitchState = switchState;
 
 ```
 
-RE blanca , RE negra con . , DO corchera, RE corchera, Mi negra con . , La negra, DO negra, RE blanca , RE negra con . , DO corchera
+# Variación
 
-SOL alto, MI negra con . , RE negra, DO negra, SOL alto, MI negra con . , RE negra, DO negra,
+En nuestro caso hemos hecho que suene la canción de Blinding lights al terminar de "llenarse" el reloj de arena digital
 
-RE 6 tiempos LA corchera SOL bajo LA corchera Sol Bajo 4 tiempo de SOL y Silencio 
+E aquí el código y alguna imagen e vídeo:
+
+``` C++
+const int switchPin = 8;
+unsigned long previousTime = 0;
+int switchState = 0;
+int prevSwitchState = 0;
+int led = 2;
+long interval = 2000;
+//constantes altavoz/melodia
+const int pinAltavoz = 9;
+const int freqs[] = {261.63, 293.66, 329.63, 349.23, 392, 440, 415.305, 466.16, 523.25, 587.33, 587.33, 659.25,698.46, 783.99, 880, 932.33, 1046.50, 415.305};
+const int duracionNegra = 500;
+
+void setup() {
+ for(int x = 2;x<8;x++){
+  pinMode(x, OUTPUT);
+ }
+pinMode(switchPin, INPUT);
+
+}
+
+void loop() {
+  unsigned long currentTime = millis();
+  if(currentTime - previousTime > interval){
+    previousTime = currentTime;
+    digitalWrite(led, HIGH);
+    led++;
+    if(led == 8){
+      tocarBlindingLights();
+  }
+}
+switchState = digitalRead(switchPin);
+if(switchState != prevSwitchState){
+   for(int x = 2;x<8;x++){
+    digitalWrite(x, LOW);
+   }
+   led = 2;
+   previousTime = currentTime;
+ }
+prevSwitchState = switchState;
+}
+
+void tocarBlindingLights() {
+tocarNota(9,2);
+tocarNota(9,1.5);
+tocarNota(8,0.5);
+tocarNota(9,0.5);
+tocarNota(10,1.5);
+tocarNota(5,1);
+tocarNota(8,1);
+tocarNota(9,2);
+tocarNota(8,1.5);
+tocarNota(8,0.5);
+tocarNota(6,1);
+tocarNota(-1,1);
+}
+
+void tocarNota(int numeroNota, float duracionNota){
+
+ 
+    int pin = pinAltavoz;
+  int duracionMilisegundos = duracionNegra * duracionNota;
+  
+  if (numeroNota == -1){
+    noTone(pin);
+    delay(duracionMilisegundos);
+    
+  }
+  else { 
+   
+  int frecuencia = freqs[numeroNota];
+  tone(pin,frecuencia,duracionMilisegundos);
+  delay(duracionMilisegundos);
+  }
+}
+
+```
+
