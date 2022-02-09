@@ -41,7 +41,8 @@ Tilt sensor o mejor llamado interruptor de inclinación en un sensor de encendid
 
 ## Código
 
-```
+```C++
+
 const int switchPin = 8;
 unsigned long previousTime = 0;
 int switchState = 0;
