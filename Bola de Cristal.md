@@ -34,7 +34,7 @@ Por último hemos probado de utilizarla con un botón en vez de con un tilt sens
 
 Aquí se encuentra el código de este proyecto:
 
-```
+```C++
 #include <LiquidCrystal.h>
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
 const int switchPin = 6;
