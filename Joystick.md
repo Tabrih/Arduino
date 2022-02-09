@@ -2,7 +2,7 @@
 
 # Proyecto
 
-En el día de hoy he probado el funcionamiento de un Joystick.
+En día de hoy he probado el funcionamiento de un Joystick.
 
 ## Resumen
 
@@ -125,3 +125,7 @@ else {
 }
 
 ```
+
+## Imágenes y Vídeos
+
+Y aquí un par de imágenes y un vídeo sobre el Joystick.
