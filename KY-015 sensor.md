@@ -18,7 +18,7 @@
  
  He aquí el código del proyecto:
  
-```
+```C++
 #include "DHT.h"
 const int sensor_pin_ky015 = 10;           
 #define DHT1 DHT11
