@@ -37,3 +37,5 @@ Me llamo Christian y este repositorio trata sobre mis trabajos y avances en Ardu
 [Cerrojo de Puerta](https://github.com/Tabrih/Arduino/blob/main/Cerrojo%20de%20Puerta.md)
 
 [Lámpara táctil](https://github.com/Tabrih/Arduino/blob/main/L%C3%A1mpara%20T%C3%A1ctil.md)
+
+[Sensor KY-015](https://github.com/Tabrih/Arduino/blob/main/KY-015%20sensor.md)
